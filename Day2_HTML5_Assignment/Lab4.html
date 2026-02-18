@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lab4</title>
+</head>
+<body>
+    <header>
+    <h1>Travel Booking Portal</h1>
+    <p>Plan your journey with comfort</p>
+</header>
+
+<main>
+
+<section>
+    <h2>Promotional Video</h2>
+    <video width="500px" controls poster="OIP.jfif">
+        <source src="v1.MP4">
+        Your browser does not support video.
+    </video>
+</section>
+
+<section>
+    <h2>Travel Theme Audio</h2>
+    <audio controls>
+        <source src="ring1.mp3">
+        Your browser does not support audio.
+    </audio>
+</section>
+
+<section>
+    <h2>Booking Form</h2>
+
+    <form>
+
+        <fieldset>
+            <legend>Travel Details</legend>
+
+            <table>
+
+                <tr>
+                    <td>Source City:</td>
+                    <td>
+                        <input list="cities" name="source" required>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>Destination City:</td>
+                    <td>
+                        <input list="cities" name="destination" required>
+                        <datalist id="cities">
+                            <option value="Hyderabad">
+                            <option value="Delhi">
+                            <option value="Mumbai">
+                            <option value="Bangalore">
+                            <option value="Chennai">
+                        </datalist>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>Departure Date:</td>
+                    <td>
+                        <input type="date" id="depart" name="depart" required>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>Return Date:</td>
+                    <td>
+                        <input type="date" id="return" name="return" 
+                               required
+                               onfocus="this.min=document.getElementById('depart').value">
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>Travel Class:</td>
+                    <td>
+                        <select name="class" required>
+                            <option value="">Select</option>
+                            <option>Economy</option>
+                            <option>Business</option>
+                            <option>First Class</option>
+                        </select>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>Preferred Airline:</td>
+                    <td>
+                        <input list="airlines" name="airline" required>
+                        <datalist id="airlines">
+                            <option value="IndiGo">
+                            <option value="Air India">
+                            <option value="Vistara">
+                            <option value="SpiceJet">
+                        </datalist>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>Passengers:</td>
+                    <td>
+                        <input type="number" min="1" max="10" required>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>Special Assistance Notes:</td>
+                    <td>
+                        <textarea rows="3" cols="25"
+                          placeholder="Mention wheelchair, medical needs, or other assistance"></textarea>
+                    </td>
+                </tr>
+
+            </table>
+
+        </fieldset>
+
+        <br>
+        <input type="submit" value="Book Now">
+
+    </form>
+
+</section>
+
+</main>
+
+</body>
+</html>

@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lab3</title>
+</head>
+<body>
+    <header>
+    <h1>Online Certification Program</h1>
+    <p>Enroll and upgrade your skills</p>
+</header>
+
+<main>
+
+<section>
+    <h2>Introduction Video</h2>
+    <video width="500" controls poster="AI.jfif">
+        <source src="v1.MP4" type="video/mp4">
+        Your browser does not support video.
+    </video>
+</section>
+
+<section>
+    <h2>Enrollment Progress</h2>
+    <progress value="40" max="100"></progress> 40%
+</section>
+
+<section>
+    <h2>Course Registration Form</h2>
+
+    <form action="#" method="post">
+
+        <fieldset>
+            <legend>Student Enrollment Details</legend>
+
+            <table>
+
+                <tr>
+                    <td><label for="course">Select Course:</label></td>
+                    <td>
+                        <input list="courses" id="course" name="course" required>
+                        <datalist id="courses">
+                            <option value="Java Full Stack">
+                            <option value="Python with Data Science">
+                            <option value="Web Development">
+                            <option value="Cloud Computing">
+                        </datalist>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td><label for="batch">Batch Month:</label></td>
+                    <td>
+                        <input type="month" id="batch" name="batch" required>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td><label for="time">Preferred Session Time:</label></td>
+                    <td>
+                        <input type="time" id="time" name="time" required>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td><label for="skill">Skill Level (0–10):</label></td>
+                    <td>
+                        <input type="range" id="skill" name="skill" min="0" max="10" value="5" 
+                               oninput="skillMeter.value=this.value" required>
+                        <meter id="skillMeter" min="0" max="10" value="5"></meter>
+                    </td>
+                </tr>
+
+            </table>
+
+        </fieldset>
+
+        <br>
+        <input type="submit" value="Enroll Now">
+
+    </form>
+
+</section>
+
+</main>
+
+<footer>
+    <p>&copy; 2026 Online Learning Platform</p>
+</footer>
+
+</body>
+</html>
