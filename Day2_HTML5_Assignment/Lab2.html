@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body align="center">
+    <header>
+        <i><u><h1>Hospital Appointment Booking</h1></u></i>
+        <p>Book your appointment digitally with ease</p> 
+    </header>
+
+    <main>
+    <section>
+        <h2>Patient Appointment Form</h2>
+
+        <form>
+           <table align="center">
+               <tr>
+                    <td>Name</td>
+                    <td><input type="text" id="txtname" required pattern="[A-Z]{2,}"
+                         title="Name should be in Upper case"></td>
+               </tr>
+               <tr>
+                <td>Email</td>
+                    <td><input type="email" id="txtemail"></td>
+               </tr>
+               <tr>
+                    <td>Mobile</td>
+                    <td><input type="text" id="txtmobile" pattern="[0-9]{10}"
+                        title="VALID MOBILE NUMBER">
+                    </td>
+                </tr>
+                <tr>
+                    <td>Age</td>
+                    <td><input type="number" id="agenum"></td>
+                </tr>
+                <tr>
+                    <td>Department:</td>
+                    <td><input list="departments" id="department" name="department" required>
+                    <datalist id="departments">
+                        <option value="Cardiology">
+                        <option value="Neurology">
+                        <option value="Orthopedics">
+                        <option value="Pediatrics">
+                        <option value="Dermatology">
+                    </datalist></td>
+                </tr>
+                <tr>
+                    <td>Preferred Doctor:</td>
+                    <td><input list="doctors" id="doctor" name="doctor" placeholder="Type or choose doctor" required>
+                    <datalist id="doctors">
+                        <option value="Dr. Sharma">
+                        <option value="Dr. Rao">
+                        <option value="Dr. Mehta">
+                        <option value="Dr. Singh">
+                    </datalist></td>
+                </tr>
+                <tr>
+                    <td>Appointment Date:</td>
+                    <td><input type="date" id="date" name="date" min="2026-02-17" required></td>
+                </tr>
+                <tr>
+                    <td>Appointment Time:</td>
+                    <td><input type="time" id="time" name="time" required></td>
+                </tr>
+                <tr>
+                    <td> Emergency Case</td>
+                    <td><input type="checkbox" onclick="document.getElementById('time').disabled = this.checked;"></td>
+                </tr>
+                <tr>
+                    <td>Upload Medical Reports:</td>
+                    <td> <input type="file" id="reports" name="reports" multiple></td>
+                </tr>
+                <tr>
+                    <!-- <td>Submit</td> -->
+                    <td><input type="submit" value="Book Appointment"></td>
+                </tr>
+
+           </table>
+        </form>
+    </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 City Hospital. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
