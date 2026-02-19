@@ -1,0 +1,73 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+header{
+    text-align: center;
+   
+    background-color: lightblue;
+    padding-top: 10px;
+
+}
+#head2{
+    padding: 10px;
+    background-color: aliceblue;
+}
+.sec1{
+    text-align: center;
+    background-color: lightblue;
+}
+.service{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+
+}
+#ortho:hover{
+    box-shadow: 2px 2px 2px white;
+}
+#car:hover{
+    box-shadow: 2px 2px 2px white;
+}
+#ent:hover{
+    box-shadow: 2px 2px 2px white;
+}
+#car,#ent,#ortho{
+    padding-bottom: 5px;
+    border: 2px white solid;
+
+}
+.ser_button:hover{
+    box-shadow: 2px 2px 2px white;
+    background-color: lightblue;
+    color: aliceblue;
+    font-size: 25px;
+   
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+.sec2{
+     text-align: center;
+    background-color: lightblue;
+
+}
+.doc_profile{
+    width: 100%;
+  height: auto;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    box-sizing: border-box;
+}
+.u{
+    width: auto;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-bottom: 5px;
+    border: 2px white solid;
+    text-align: center;
+}
+.u:hover{
+    box-shadow: 2px 2px 2px white;
+}

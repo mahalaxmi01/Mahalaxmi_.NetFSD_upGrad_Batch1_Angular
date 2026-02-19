@@ -1,0 +1,118 @@
+/* ===== Global Styles ===== */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: yellow;
+    color: blue;
+    padding: 20px;
+    text-align: center;
+}
+
+nav {
+    background-color: blue;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: yellow;
+}
+
+.container {
+    padding-top: 30px;
+    padding-bottom: -200px;
+}
+
+
+.products {
+   display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.card {
+    background: yellow;
+    width: 23%;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 0 0 10px #ccc;
+}
+
+.card:hover {
+    box-shadow: 2px 2px 2px gray;
+}
+
+.card img {
+    width: 100px;
+    border-radius: 5px;
+}
+
+.price {
+    color: #e74c3c;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 8px 15px;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #2ecc71;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background: white;
+}
+
+table,
+th,
+td {
+    border: 1px solid blue;
+}
+
+th,
+td {
+    padding: 12px;
+    text-align: center;
+}
+
+th {
+    background-color: yellow;
+    color: blue;
+}
+
+
+input,
+select {
+    width: 100%;
+    padding: 8px;
+    margin: 10px 0;
+}
+
+footer {
+    background-color: yellow;
+    color: blue;
+    text-align: center;
+    padding: 15px;
+    margin-top: 30px;
+}
