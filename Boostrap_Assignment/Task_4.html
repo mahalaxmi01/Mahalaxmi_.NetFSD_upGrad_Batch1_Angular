@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>ShopSmart - E-Commerce</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+
+    <style>
+        
+        :root{
+            --main-color:#6f42c1;
+            --secondary-color:#f8f9fa;
+        }
+
+        body{
+            background-color:var(--secondary-color);
+        }
+
+        .hero{
+            background:linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.6)),
+            url("https://tse3.mm.bing.net/th/id/OIP.ouSUXoHG3x1NcWTsd_Z9PwHaE6?pid=Api&P=0&h=180");
+            background-size:cover;
+            color:white;
+            padding:120px 0;
+            text-align:center;
+        }
+
+
+        .card:hover{
+            transform:scale(1.03);
+            transition:0.3s;
+        }
+        .product-img{
+            height: 250px;     
+            width: 100%;
+            object-fit: cover;
+        }
+    </style>
+</head>
+
+<body>
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+
+            <a class="navbar-brand fw-bold" href="#">ShopSmart</a>
+
+            <button class="navbar-toggler" type="button"
+            data-bs-toggle="offcanvas"
+            data-bs-target="#offcanvasMenu">
+            <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse d-none d-lg-block">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item"><a class="nav-link" href="#">Home</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#">Products</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#">Offers</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#">Contact</a></li>
+                </ul>
+            </div>
+
+        </div>
+    </nav>
+
+
+    <div class="offcanvas offcanvas-start text-bg-dark" id="offcanvasMenu">
+        <div class="offcanvas-header">
+            <h5>Menu</h5>
+            <button class="btn-close btn-close-white" data-bs-dismiss="offcanvas"></button>
+        </div>
+
+        <div class="offcanvas-body">
+            <ul class="navbar-nav">
+                <li><a class="nav-link text-white" href="#">Home</a></li>
+                <li><a class="nav-link text-white" href="#">Products</a></li>
+                <li><a class="nav-link text-white" href="#">Offers</a></li>
+                <li><a class="nav-link text-white" href="#">Contact</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <section class="hero">
+        <div class="container">
+            <h1 class="display-4 fw-bold">Welcome to ShopSmart</h1>
+            <p class="lead">Best Deals. Best Products. Best Experience.</p>
+            <button class="btn btn-primary btn-lg">Shop Now</button>
+        </div>
+    </section>
+
+    <div class="container my-5">
+        <h2 class="text-center mb-4">Featured Products</h2>
+
+        <div id="productCarousel" class="carousel slide" data-bs-ride="carousel">
+
+            <div class="carousel-inner">
+
+                <div class="carousel-item active">
+                    <div class="row g-4">
+
+                        <div class="col-md-4">
+                            <div class="card">
+                                <img src="https://tse1.mm.bing.net/th/id/OIP.9q_kaRpa32DAkAKnofr9cwHaLf?pid=Api&P=0&h=180" class="card-img-top product-img">
+                                <div class="card-body text-center">
+                                <h5>Headphones</h5>
+                                <p>$99</p>
+                                <button class="btn btn-outline-primary">Buy</button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4">
+                        <div class="card">
+                            <img src="https://tse2.mm.bing.net/th/id/OIP.Cgg7x4IfpiNhCdalpA8DOQHaHc?pid=Api&P=0&h=180" class="card-img-top product-img">
+                            <div class="card-body text-center">
+                                <h5>Smart Watch</h5>
+                                <p>$149</p>
+                                <button class="btn btn-outline-primary">Buy</button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4">
+                        <div class="card">
+                            <img src="https://tse3.mm.bing.net/th/id/OIP.qvnhHPEFzCBiBTQVgAHzUQHaD4?pid=Api&P=0&h=180" class="card-img-top product-img">
+                            <div class="card-body text-center">
+                                <h5>Camera</h5>
+                                <p>$399</p>
+                                <button class="btn btn-outline-primary">Buy</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="carousel-item">
+                <div class="row g-4">
+
+                    <div class="col-md-4">
+                        <div class="card">
+                            <img src="https://tse2.mm.bing.net/th/id/OIP.6C2sTAJr5hUsXi4FXyM6kAHaEb?pid=Api&P=0&h=180" class="card-img-top product-img">
+                            <div class="card-body text-center">
+                                <h5>Laptop</h5>
+                                <p>$999</p>
+                                <button class="btn btn-outline-primary">Buy</button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4">
+                        <div class="card">
+                            <img src="https://tse3.mm.bing.net/th/id/OIP.OhPFuIQGilfslklLNGs3xwHaHc?pid=Api&P=0&h=180" class="card-img-top product-img">
+                            <div class="card-body text-center">
+                                <h5>Phone</h5>
+                                <p>$699</p>
+                                <button class="btn btn-outline-primary">Buy</button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4">
+                        <div class="card">
+                            <img src="https://tse4.mm.bing.net/th/id/OIP.mur2tUdPQjpgMKgKWE8fOgHaJc?pid=Api&P=0&h=180" class="card-img-top product-img">
+                            <div class="card-body text-center">
+                                <h5>Speaker</h5>
+                                <p>$199</p>
+                                <button class="btn btn-outline-primary">Buy</button>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+
+        <button class="carousel-control-prev"
+        type="button"
+        data-bs-target="#productCarousel"
+        data-bs-slide="prev">
+        <span class="carousel-control-prev-icon"></span>
+        </button>
+
+        <button class="carousel-control-next"
+        type="button"
+        data-bs-target="#productCarousel"
+        data-bs-slide="next">
+        <span class="carousel-control-next-icon"></span>
+        </button>
+
+    </div>
+    </div>
+
+    <div class="container my-5">
+         <h2 class="text-center mb-4">Shop Categories</h2>
+
+        <div class="row text-center g-4">
+
+            <div class="col-sm-6 col-lg-3">
+               <div class="p-4 bg-white shadow rounded">Electronics</div>
+            </div>
+
+            <div class="col-sm-6 col-lg-3">
+              <div class="p-4 bg-white shadow rounded">Fashion</div>
+            </div>
+
+            <div class="col-sm-6 col-lg-3">
+               <div class="p-4 bg-white shadow rounded">Accessories</div>
+            </div>
+
+            <div class="col-sm-6 col-lg-3">
+               <div class="p-4 bg-white shadow rounded">Home Appliances</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="bg-dark text-white py-5">
+       <div class="container text-center">
+
+            <h3>Subscribe to Newsletter</h3>
+
+            <form class="row justify-content-center mt-3 needs-validation" novalidate>
+
+                <div class="col-md-4">
+                    <input type="email"
+                    class="form-control"
+                    placeholder="Enter email"
+                    required>
+                    <div class="invalid-feedback">
+                    Enter valid email.
+                    </div>
+                </div>
+
+                <div class="col-auto">
+                    <button class="btn btn-primary">Subscribe</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <footer class="text-center py-4 bg-light">
+        <p class="mb-0">© 2026 ShopSmart | All Rights Reserved</p>
+    </footer>
+
+    <script>
+        (() => {
+            'use strict'
+            const forms = document.querySelectorAll('.needs-validation')
+
+            Array.from(forms).forEach(form => {
+                form.addEventListener('submit', event => {
+                    if (!form.checkValidity()) {
+                    event.preventDefault()
+                    event.stopPropagation()
+                    }
+                    form.classList.add('was-validated')
+                }, false)
+            })
+        })();
+    </script>
+
+</body>
+</html>
