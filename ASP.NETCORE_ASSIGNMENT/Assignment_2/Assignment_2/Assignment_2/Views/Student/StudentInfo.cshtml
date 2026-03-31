@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewData["Title"] = "StudentInfo";
+}
+
+<h1>StudentInfo</h1>
+
+
+<h4>ViewBag Value</h4>
+<p>Name: @ViewBag.StudentName</p>
+
+<h4>ViewData Value</h4>
+<p>Age: @Convert.ToInt32(ViewData["StudentAge"])</p>
+
+<hr />
+
+<p><b>Difference:</b></p>
+<p>ViewBag is dynamic.</p>
+<p>ViewData returns object, so it may need casting.</p>

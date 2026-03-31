@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\upGrad_Training\\ASP.NETCORE\\ASP.NETCORE_ASSIGNMENT\\Assignment_2\\Assignment_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{891C0E2D-BF6A-4F34-8D3F-546CADE33462}|Assignment_2\\Assignment_2.csproj|d:\\upgrad_training\\asp.netcore\\asp.netcore_assignment\\assignment_2\\assignment_2\\assignment_2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{891C0E2D-BF6A-4F34-8D3F-546CADE33462}|Assignment_2\\Assignment_2.csproj|solutionrelative:assignment_2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{891C0E2D-BF6A-4F34-8D3F-546CADE33462}|Assignment_2\\Assignment_2.csproj|d:\\upgrad_training\\asp.netcore\\asp.netcore_assignment\\assignment_2\\assignment_2\\assignment_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{891C0E2D-BF6A-4F34-8D3F-546CADE33462}|Assignment_2\\Assignment_2.csproj|solutionrelative:assignment_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{891C0E2D-BF6A-4F34-8D3F-546CADE33462}|Assignment_2\\Assignment_2.csproj|d:\\upgrad_training\\asp.netcore\\asp.netcore_assignment\\assignment_2\\assignment_2\\assignment_2\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{891C0E2D-BF6A-4F34-8D3F-546CADE33462}|Assignment_2\\Assignment_2.csproj|solutionrelative:assignment_2\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{891C0E2D-BF6A-4F34-8D3F-546CADE33462}|Assignment_2\\Assignment_2.csproj|d:\\upgrad_training\\asp.netcore\\asp.netcore_assignment\\assignment_2\\assignment_2\\assignment_2\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{891C0E2D-BF6A-4F34-8D3F-546CADE33462}|Assignment_2\\Assignment_2.csproj|solutionrelative:assignment_2\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{891C0E2D-BF6A-4F34-8D3F-546CADE33462}|Assignment_2\\Assignment_2.csproj|d:\\upgrad_training\\asp.netcore\\asp.netcore_assignment\\assignment_2\\assignment_2\\assignment_2\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{891C0E2D-BF6A-4F34-8D3F-546CADE33462}|Assignment_2\\Assignment_2.csproj|solutionrelative:assignment_2\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\upGrad_Training\\ASP.NETCORE\\ASP.NETCORE_ASSIGNMENT\\Assignment_2\\Assignment_2\\Assignment_2\\Views\\Student\\ShowStudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment_2\\Views\\Student\\ShowStudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\upGrad_Training\\ASP.NETCORE\\ASP.NETCORE_ASSIGNMENT\\Assignment_2\\Assignment_2\\Assignment_2\\Views\\Student\\CreateWithHtmlHelpers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment_2\\Views\\Student\\CreateWithHtmlHelpers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\upGrad_Training\\ASP.NETCORE\\ASP.NETCORE_ASSIGNMENT\\Assignment_2\\Assignment_2\\Assignment_2\\Views\\Student\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment_2\\Views\\Student\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\upGrad_Training\\ASP.NETCORE\\ASP.NETCORE_ASSIGNMENT\\Assignment_2\\Assignment_2\\Assignment_2\\Views\\Student\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment_2\\Views\\Student\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\upGrad_Training\\ASP.NETCORE\\ASP.NETCORE_ASSIGNMENT\\Assignment_2\\Assignment_2\\Assignment_2\\Views\\Student\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment_2\\Views\\Student\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\upGrad_Training\\ASP.NETCORE\\ASP.NETCORE_ASSIGNMENT\\Assignment_2\\Assignment_2\\Assignment_2\\Views\\Student\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment_2\\Views\\Student\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\upGrad_Training\\ASP.NETCORE\\ASP.NETCORE_ASSIGNMENT\\Assignment_2\\Assignment_2\\Assignment_2\\Views\\Student\\StudentInfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment_2\\Views\\Student\\StudentInfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{891C0E2D-BF6A-4F34-8D3F-546CADE33462}|Assignment_2\\Assignment_2.csproj|d:\\upgrad_training\\asp.netcore\\asp.netcore_assignment\\assignment_2\\assignment_2\\assignment_2\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{891C0E2D-BF6A-4F34-8D3F-546CADE33462}|Assignment_2\\Assignment_2.csproj|solutionrelative:assignment_2\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{891C0E2D-BF6A-4F34-8D3F-546CADE33462}|Assignment_2\\Assignment_2.csproj|d:\\upgrad_training\\asp.netcore\\asp.netcore_assignment\\assignment_2\\assignment_2\\assignment_2\\assignment_2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{891C0E2D-BF6A-4F34-8D3F-546CADE33462}|Assignment_2\\Assignment_2.csproj|solutionrelative:assignment_2\\assignment_2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{891C0E2D-BF6A-4F34-8D3F-546CADE33462}|Assignment_2\\Assignment_2.csproj|d:\\upgrad_training\\asp.netcore\\asp.netcore_assignment\\assignment_2\\assignment_2\\assignment_2\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{891C0E2D-BF6A-4F34-8D3F-546CADE33462}|Assignment_2\\Assignment_2.csproj|solutionrelative:assignment_2\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\upGrad_Training\\ASP.NETCORE\\ASP.NETCORE_ASSIGNMENT\\Assignment_2\\Assignment_2\\Assignment_2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Assignment_2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\upGrad_Training\\ASP.NETCORE\\ASP.NETCORE_ASSIGNMENT\\Assignment_2\\Assignment_2\\Assignment_2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Assignment_2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-31T16:02:15.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShowStudent.cshtml",
+              "DocumentMoniker": "D:\\upGrad_Training\\ASP.NETCORE\\ASP.NETCORE_ASSIGNMENT\\Assignment_2\\Assignment_2\\Assignment_2\\Views\\Student\\ShowStudent.cshtml",
+              "RelativeDocumentMoniker": "Assignment_2\\Views\\Student\\ShowStudent.cshtml",
+              "ToolTip": "D:\\upGrad_Training\\ASP.NETCORE\\ASP.NETCORE_ASSIGNMENT\\Assignment_2\\Assignment_2\\Assignment_2\\Views\\Student\\ShowStudent.cshtml",
+              "RelativeToolTip": "Assignment_2\\Views\\Student\\ShowStudent.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-31T15:59:47.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateWithHtmlHelpers.cshtml",
+              "DocumentMoniker": "D:\\upGrad_Training\\ASP.NETCORE\\ASP.NETCORE_ASSIGNMENT\\Assignment_2\\Assignment_2\\Assignment_2\\Views\\Student\\CreateWithHtmlHelpers.cshtml",
+              "RelativeDocumentMoniker": "Assignment_2\\Views\\Student\\CreateWithHtmlHelpers.cshtml",
+              "ToolTip": "D:\\upGrad_Training\\ASP.NETCORE\\ASP.NETCORE_ASSIGNMENT\\Assignment_2\\Assignment_2\\Assignment_2\\Views\\Student\\CreateWithHtmlHelpers.cshtml",
+              "RelativeToolTip": "Assignment_2\\Views\\Student\\CreateWithHtmlHelpers.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-31T15:56:23.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\upGrad_Training\\ASP.NETCORE\\ASP.NETCORE_ASSIGNMENT\\Assignment_2\\Assignment_2\\Assignment_2\\Views\\Student\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Assignment_2\\Views\\Student\\Delete.cshtml",
+              "ToolTip": "D:\\upGrad_Training\\ASP.NETCORE\\ASP.NETCORE_ASSIGNMENT\\Assignment_2\\Assignment_2\\Assignment_2\\Views\\Student\\Delete.cshtml",
+              "RelativeToolTip": "Assignment_2\\Views\\Student\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-31T15:53:35.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\upGrad_Training\\ASP.NETCORE\\ASP.NETCORE_ASSIGNMENT\\Assignment_2\\Assignment_2\\Assignment_2\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Assignment_2\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "D:\\upGrad_Training\\ASP.NETCORE\\ASP.NETCORE_ASSIGNMENT\\Assignment_2\\Assignment_2\\Assignment_2\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "Assignment_2\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-31T15:50:37.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\upGrad_Training\\ASP.NETCORE\\ASP.NETCORE_ASSIGNMENT\\Assignment_2\\Assignment_2\\Assignment_2\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "Assignment_2\\Views\\Student\\Create.cshtml",
+              "ToolTip": "D:\\upGrad_Training\\ASP.NETCORE\\ASP.NETCORE_ASSIGNMENT\\Assignment_2\\Assignment_2\\Assignment_2\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "Assignment_2\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-31T15:48:32.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\upGrad_Training\\ASP.NETCORE\\ASP.NETCORE_ASSIGNMENT\\Assignment_2\\Assignment_2\\Assignment_2\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "Assignment_2\\Views\\Student\\Index.cshtml",
+              "ToolTip": "D:\\upGrad_Training\\ASP.NETCORE\\ASP.NETCORE_ASSIGNMENT\\Assignment_2\\Assignment_2\\Assignment_2\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "Assignment_2\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-31T15:45:16.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentInfo.cshtml",
+              "DocumentMoniker": "D:\\upGrad_Training\\ASP.NETCORE\\ASP.NETCORE_ASSIGNMENT\\Assignment_2\\Assignment_2\\Assignment_2\\Views\\Student\\StudentInfo.cshtml",
+              "RelativeDocumentMoniker": "Assignment_2\\Views\\Student\\StudentInfo.cshtml",
+              "ToolTip": "D:\\upGrad_Training\\ASP.NETCORE\\ASP.NETCORE_ASSIGNMENT\\Assignment_2\\Assignment_2\\Assignment_2\\Views\\Student\\StudentInfo.cshtml",
+              "RelativeToolTip": "Assignment_2\\Views\\Student\\StudentInfo.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-31T15:43:24.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\upGrad_Training\\ASP.NETCORE\\ASP.NETCORE_ASSIGNMENT\\Assignment_2\\Assignment_2\\Assignment_2\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment_2\\Program.cs",
+              "ToolTip": "D:\\upGrad_Training\\ASP.NETCORE\\ASP.NETCORE_ASSIGNMENT\\Assignment_2\\Assignment_2\\Assignment_2\\Program.cs",
+              "RelativeToolTip": "Assignment_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T12:10:54.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\upGrad_Training\\ASP.NETCORE\\ASP.NETCORE_ASSIGNMENT\\Assignment_2\\Assignment_2\\Assignment_2\\appsettings.json",
+              "RelativeDocumentMoniker": "Assignment_2\\appsettings.json",
+              "ToolTip": "D:\\upGrad_Training\\ASP.NETCORE\\ASP.NETCORE_ASSIGNMENT\\Assignment_2\\Assignment_2\\Assignment_2\\appsettings.json",
+              "RelativeToolTip": "Assignment_2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-31T12:10:27.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\upGrad_Training\\ASP.NETCORE\\ASP.NETCORE_ASSIGNMENT\\Assignment_2\\Assignment_2\\Assignment_2\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Assignment_2\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\upGrad_Training\\ASP.NETCORE\\ASP.NETCORE_ASSIGNMENT\\Assignment_2\\Assignment_2\\Assignment_2\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Assignment_2\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T12:06:42.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Assignment_2",
+              "DocumentMoniker": "D:\\upGrad_Training\\ASP.NETCORE\\ASP.NETCORE_ASSIGNMENT\\Assignment_2\\Assignment_2\\Assignment_2\\Assignment_2.csproj",
+              "RelativeDocumentMoniker": "Assignment_2\\Assignment_2.csproj",
+              "ToolTip": "D:\\upGrad_Training\\ASP.NETCORE\\ASP.NETCORE_ASSIGNMENT\\Assignment_2\\Assignment_2\\Assignment_2\\Assignment_2.csproj",
+              "RelativeToolTip": "Assignment_2\\Assignment_2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-31T12:06:14.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\upGrad_Training\\ASP.NETCORE\\ASP.NETCORE_ASSIGNMENT\\Assignment_2\\Assignment_2\\Assignment_2\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Assignment_2\\Models\\Course.cs",
+              "ToolTip": "D:\\upGrad_Training\\ASP.NETCORE\\ASP.NETCORE_ASSIGNMENT\\Assignment_2\\Assignment_2\\Assignment_2\\Models\\Course.cs",
+              "RelativeToolTip": "Assignment_2\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T12:04:14.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\upGrad_Training\\ASP.NETCORE\\ASP.NETCORE_ASSIGNMENT\\Assignment_2\\Assignment_2\\Assignment_2\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Assignment_2\\Models\\Student.cs",
+              "ToolTip": "D:\\upGrad_Training\\ASP.NETCORE\\ASP.NETCORE_ASSIGNMENT\\Assignment_2\\Assignment_2\\Assignment_2\\Models\\Student.cs",
+              "RelativeToolTip": "Assignment_2\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T12:03:03.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\upGrad_Training\\ASP.NETCORE\\ASP.NETCORE_ASSIGNMENT\\Assignment_2\\Assignment_2\\Assignment_2\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Assignment_2\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\upGrad_Training\\ASP.NETCORE\\ASP.NETCORE_ASSIGNMENT\\Assignment_2\\Assignment_2\\Assignment_2\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Assignment_2\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T12:01:37.579Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\upGrad_Training\\ADO.NET\\Assignments\\User_Management_System_MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7DCED8-EEC0-46E1-8B36-FC5428BA13DB}|User_Management_System_MVC\\User_Management_System_MVC.csproj|d:\\upgrad_training\\ado.net\\assignments\\user_management_system_mvc\\user_management_system_mvc\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C7DCED8-EEC0-46E1-8B36-FC5428BA13DB}|User_Management_System_MVC\\User_Management_System_MVC.csproj|solutionrelative:user_management_system_mvc\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7DCED8-EEC0-46E1-8B36-FC5428BA13DB}|User_Management_System_MVC\\User_Management_System_MVC.csproj|d:\\upgrad_training\\ado.net\\assignments\\user_management_system_mvc\\user_management_system_mvc\\views\\user\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C7DCED8-EEC0-46E1-8B36-FC5428BA13DB}|User_Management_System_MVC\\User_Management_System_MVC.csproj|solutionrelative:user_management_system_mvc\\views\\user\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7DCED8-EEC0-46E1-8B36-FC5428BA13DB}|User_Management_System_MVC\\User_Management_System_MVC.csproj|d:\\upgrad_training\\ado.net\\assignments\\user_management_system_mvc\\user_management_system_mvc\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C7DCED8-EEC0-46E1-8B36-FC5428BA13DB}|User_Management_System_MVC\\User_Management_System_MVC.csproj|solutionrelative:user_management_system_mvc\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7DCED8-EEC0-46E1-8B36-FC5428BA13DB}|User_Management_System_MVC\\User_Management_System_MVC.csproj|d:\\upgrad_training\\ado.net\\assignments\\user_management_system_mvc\\user_management_system_mvc\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C7DCED8-EEC0-46E1-8B36-FC5428BA13DB}|User_Management_System_MVC\\User_Management_System_MVC.csproj|solutionrelative:user_management_system_mvc\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7DCED8-EEC0-46E1-8B36-FC5428BA13DB}|User_Management_System_MVC\\User_Management_System_MVC.csproj|d:\\upgrad_training\\ado.net\\assignments\\user_management_system_mvc\\user_management_system_mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C7DCED8-EEC0-46E1-8B36-FC5428BA13DB}|User_Management_System_MVC\\User_Management_System_MVC.csproj|solutionrelative:user_management_system_mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7DCED8-EEC0-46E1-8B36-FC5428BA13DB}|User_Management_System_MVC\\User_Management_System_MVC.csproj|d:\\upgrad_training\\ado.net\\assignments\\user_management_system_mvc\\user_management_system_mvc\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1C7DCED8-EEC0-46E1-8B36-FC5428BA13DB}|User_Management_System_MVC\\User_Management_System_MVC.csproj|solutionrelative:user_management_system_mvc\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7DCED8-EEC0-46E1-8B36-FC5428BA13DB}|User_Management_System_MVC\\User_Management_System_MVC.csproj|d:\\upgrad_training\\ado.net\\assignments\\user_management_system_mvc\\user_management_system_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C7DCED8-EEC0-46E1-8B36-FC5428BA13DB}|User_Management_System_MVC\\User_Management_System_MVC.csproj|solutionrelative:user_management_system_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7DCED8-EEC0-46E1-8B36-FC5428BA13DB}|User_Management_System_MVC\\User_Management_System_MVC.csproj|d:\\upgrad_training\\ado.net\\assignments\\user_management_system_mvc\\user_management_system_mvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C7DCED8-EEC0-46E1-8B36-FC5428BA13DB}|User_Management_System_MVC\\User_Management_System_MVC.csproj|solutionrelative:user_management_system_mvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7DCED8-EEC0-46E1-8B36-FC5428BA13DB}|User_Management_System_MVC\\User_Management_System_MVC.csproj|d:\\upgrad_training\\ado.net\\assignments\\user_management_system_mvc\\user_management_system_mvc\\user_management_system_mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1C7DCED8-EEC0-46E1-8B36-FC5428BA13DB}|User_Management_System_MVC\\User_Management_System_MVC.csproj|solutionrelative:user_management_system_mvc\\user_management_system_mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7DCED8-EEC0-46E1-8B36-FC5428BA13DB}|User_Management_System_MVC\\User_Management_System_MVC.csproj|d:\\upgrad_training\\ado.net\\assignments\\user_management_system_mvc\\user_management_system_mvc\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C7DCED8-EEC0-46E1-8B36-FC5428BA13DB}|User_Management_System_MVC\\User_Management_System_MVC.csproj|solutionrelative:user_management_system_mvc\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7DCED8-EEC0-46E1-8B36-FC5428BA13DB}|User_Management_System_MVC\\User_Management_System_MVC.csproj|d:\\upgrad_training\\ado.net\\assignments\\user_management_system_mvc\\user_management_system_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C7DCED8-EEC0-46E1-8B36-FC5428BA13DB}|User_Management_System_MVC\\User_Management_System_MVC.csproj|solutionrelative:user_management_system_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7DCED8-EEC0-46E1-8B36-FC5428BA13DB}|User_Management_System_MVC\\User_Management_System_MVC.csproj|d:\\upgrad_training\\ado.net\\assignments\\user_management_system_mvc\\user_management_system_mvc\\viewmodel\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C7DCED8-EEC0-46E1-8B36-FC5428BA13DB}|User_Management_System_MVC\\User_Management_System_MVC.csproj|solutionrelative:user_management_system_mvc\\viewmodel\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7DCED8-EEC0-46E1-8B36-FC5428BA13DB}|User_Management_System_MVC\\User_Management_System_MVC.csproj|d:\\upgrad_training\\ado.net\\assignments\\user_management_system_mvc\\user_management_system_mvc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C7DCED8-EEC0-46E1-8B36-FC5428BA13DB}|User_Management_System_MVC\\User_Management_System_MVC.csproj|solutionrelative:user_management_system_mvc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\upGrad_Training\\ADO.NET\\Assignments\\User_Management_System_MVC\\User_Management_System_MVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "User_Management_System_MVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\upGrad_Training\\ADO.NET\\Assignments\\User_Management_System_MVC\\User_Management_System_MVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "User_Management_System_MVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-31T11:00:31.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "D:\\upGrad_Training\\ADO.NET\\Assignments\\User_Management_System_MVC\\User_Management_System_MVC\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "User_Management_System_MVC\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "D:\\upGrad_Training\\ADO.NET\\Assignments\\User_Management_System_MVC\\User_Management_System_MVC\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "User_Management_System_MVC\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-03-31T11:00:19.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\upGrad_Training\\ADO.NET\\Assignments\\User_Management_System_MVC\\User_Management_System_MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "User_Management_System_MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\upGrad_Training\\ADO.NET\\Assignments\\User_Management_System_MVC\\User_Management_System_MVC\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "User_Management_System_MVC\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAADAAAAAAAAAAAAAIwD0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-31T10:50:39.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\upGrad_Training\\ADO.NET\\Assignments\\User_Management_System_MVC\\User_Management_System_MVC\\Views\\User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "User_Management_System_MVC\\Views\\User\\Edit.cshtml",
+              "ToolTip": "D:\\upGrad_Training\\ADO.NET\\Assignments\\User_Management_System_MVC\\User_Management_System_MVC\\Views\\User\\Edit.cshtml",
+              "RelativeToolTip": "User_Management_System_MVC\\Views\\User\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-31T10:21:39.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "D:\\upGrad_Training\\ADO.NET\\Assignments\\User_Management_System_MVC\\User_Management_System_MVC\\Views\\User\\Profile.cshtml",
+              "RelativeDocumentMoniker": "User_Management_System_MVC\\Views\\User\\Profile.cshtml",
+              "ToolTip": "D:\\upGrad_Training\\ADO.NET\\Assignments\\User_Management_System_MVC\\User_Management_System_MVC\\Views\\User\\Profile.cshtml",
+              "RelativeToolTip": "User_Management_System_MVC\\Views\\User\\Profile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-31T10:20:03.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\upGrad_Training\\ADO.NET\\Assignments\\User_Management_System_MVC\\User_Management_System_MVC\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "User_Management_System_MVC\\Views\\User\\Login.cshtml",
+              "ToolTip": "D:\\upGrad_Training\\ADO.NET\\Assignments\\User_Management_System_MVC\\User_Management_System_MVC\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "User_Management_System_MVC\\Views\\User\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-31T10:18:26.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\upGrad_Training\\ADO.NET\\Assignments\\User_Management_System_MVC\\User_Management_System_MVC\\Views\\User\\Register.cshtml",
+              "RelativeDocumentMoniker": "User_Management_System_MVC\\Views\\User\\Register.cshtml",
+              "ToolTip": "D:\\upGrad_Training\\ADO.NET\\Assignments\\User_Management_System_MVC\\User_Management_System_MVC\\Views\\User\\Register.cshtml",
+              "RelativeToolTip": "User_Management_System_MVC\\Views\\User\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-31T10:17:08.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\upGrad_Training\\ADO.NET\\Assignments\\User_Management_System_MVC\\User_Management_System_MVC\\Program.cs",
+              "RelativeDocumentMoniker": "User_Management_System_MVC\\Program.cs",
+              "ToolTip": "D:\\upGrad_Training\\ADO.NET\\Assignments\\User_Management_System_MVC\\User_Management_System_MVC\\Program.cs",
+              "RelativeToolTip": "User_Management_System_MVC\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T10:05:56.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\upGrad_Training\\ADO.NET\\Assignments\\User_Management_System_MVC\\User_Management_System_MVC\\ViewModel\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "User_Management_System_MVC\\ViewModel\\LoginViewModel.cs",
+              "ToolTip": "D:\\upGrad_Training\\ADO.NET\\Assignments\\User_Management_System_MVC\\User_Management_System_MVC\\ViewModel\\LoginViewModel.cs",
+              "RelativeToolTip": "User_Management_System_MVC\\ViewModel\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T10:01:02.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "D:\\upGrad_Training\\ADO.NET\\Assignments\\User_Management_System_MVC\\User_Management_System_MVC\\ViewModel\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "User_Management_System_MVC\\ViewModel\\UserViewModel.cs",
+              "ToolTip": "D:\\upGrad_Training\\ADO.NET\\Assignments\\User_Management_System_MVC\\User_Management_System_MVC\\ViewModel\\UserViewModel.cs",
+              "RelativeToolTip": "User_Management_System_MVC\\ViewModel\\UserViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T09:50:02.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User_Management_System_MVC",
+              "DocumentMoniker": "D:\\upGrad_Training\\ADO.NET\\Assignments\\User_Management_System_MVC\\User_Management_System_MVC\\User_Management_System_MVC.csproj",
+              "RelativeDocumentMoniker": "User_Management_System_MVC\\User_Management_System_MVC.csproj",
+              "ToolTip": "D:\\upGrad_Training\\ADO.NET\\Assignments\\User_Management_System_MVC\\User_Management_System_MVC\\User_Management_System_MVC.csproj",
+              "RelativeToolTip": "User_Management_System_MVC\\User_Management_System_MVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-31T09:48:41.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\upGrad_Training\\ADO.NET\\Assignments\\User_Management_System_MVC\\User_Management_System_MVC\\Models\\User.cs",
+              "RelativeDocumentMoniker": "User_Management_System_MVC\\Models\\User.cs",
+              "ToolTip": "D:\\upGrad_Training\\ADO.NET\\Assignments\\User_Management_System_MVC\\User_Management_System_MVC\\Models\\User.cs",
+              "RelativeToolTip": "User_Management_System_MVC\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T09:48:15.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\upGrad_Training\\ADO.NET\\Assignments\\User_Management_System_MVC\\User_Management_System_MVC\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "User_Management_System_MVC\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\upGrad_Training\\ADO.NET\\Assignments\\User_Management_System_MVC\\User_Management_System_MVC\\Controllers\\UserController.cs",
+              "RelativeToolTip": "User_Management_System_MVC\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAADwv6oAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T09:46:22.13Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
