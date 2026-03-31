@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Online Banking Dashboard</title>
+
+    <link rel="stylesheet" href="Task-4css.css">
+
+    <style>
+        #balance {
+            background-color: #e8ffe8;
+            color: green;
+            font-weight: bold;
+            border-left: 5px solid green;
+        }
+    </style>
+</head>
+<body>
+
+    <header class="top-header">
+        <h1>MyBank Dashboard</h1>
+
+        <nav>
+            <a href="#">Home</a>
+            <a href="#">Accounts</a>
+            <a href="#">Transfer</a>
+            <a href="#">Logout</a>
+        </nav>
+    </header>
+
+    <div class="container">
+
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <ul>
+                <li>Dashboard</li>
+                <li>Transactions</li>
+                <li>Cards</li>
+                <li>Settings</li>
+            </ul>
+        </aside>
+
+        <main>
+
+            <section class="cards">
+                <div class="card" id="balance">
+                    <h3>Account Balance</h3>
+                    <p>₹50,000</p>
+                </div>
+
+                <div class="card">
+                    <h3>Savings</h3>
+                    <p>₹20,000</p>
+                </div>
+
+                <div class="card">
+                    <h3>Credit Used</h3>
+                    <p>₹10,000</p>
+                </div>
+            </section>
+
+            <section>
+                <h2>Recent Transactions</h2>
+                <table>
+                    <tr>
+                        <th>Date</th>
+                        <th>Description</th>
+                        <th>Amount</th>
+                    </tr>
+                    <tr>
+                        <td>10 Feb</td>
+                        <td>ATM Withdrawal</td>
+                        <td>-₹2000</td>
+                    </tr>
+                    <tr>
+                        <td>12 Feb</td>
+                        <td>Salary Credit</td>
+                        <td>+₹30,000</td>
+                    </tr>
+                </table>
+            </section>
+        </main>
+    </div>
+
+    <footer>
+        © 2026 MyBank. All rights reserved.
+    </footer>
+
+</body>
+</html>

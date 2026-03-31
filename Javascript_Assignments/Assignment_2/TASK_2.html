@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <button onclick="showUser()">Show User</button>
+
+    <p id="u1"></p>
+    <p id="u2"></p>
+    <p id="u3"></p>
+    <script>
+        let user =
+        {
+            name:"sai",
+            age:24,
+            city:"Hyderabad"
+        };
+
+        function showUser()
+        {
+            displayUserInfo(user);
+        }
+        function displayUserInfo(userObj)
+        {
+            document.getElementById("u1").innerText="Name: "+userObj.name;
+            document.getElementById("u2").innerText="Age: "+userObj.age;
+            document.getElementById("u3").innerText="City: "+userObj.city;
+        }
+    </script>
+</body>
+</html>
