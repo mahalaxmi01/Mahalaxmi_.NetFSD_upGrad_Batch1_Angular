@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lab5</title>
+</head>
+<body>
+    <header>
+    <h1>Bank Savings Account Registration</h1>
+    <p>Open your savings account securely online</p>
+</header>
+
+<main>
+
+<section>
+    <h2>Customer Details</h2>
+
+    <form>
+
+        <fieldset>
+            <legend>Personal Information</legend>
+
+            <table>
+
+                <tr>
+                    <td>Full Name:</td>
+                    <td>
+                        <input type="text" name="fullname" required>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>Email:</td>
+                    <td>
+                        <input type="email" name="email" required>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>Phone Number:</td>
+                    <td>
+                        <input type="tel" name="phone" pattern="[0-9]{10}" required
+                               placeholder="10-digit mobile number">
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>PAN Number:</td>
+                    <td>
+                        <input type="text" name="pan"
+                               pattern="[A-Z]{5}[0-9]{4}[A-Z]{1}"
+                               placeholder="ABCDE1234F"
+                               required>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>IFSC Code:</td>
+                    <td>
+                        <input type="text" name="ifsc"
+                               pattern="[A-Z]{4}[0-9]{7}"
+                               placeholder="ABCD0123456"
+                               required>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>Account Type:</td>
+                    <td>
+                        <input list="accountTypes" name="account" required>
+                        <datalist id="accountTypes">
+                            <option value="Savings">
+                            <option value="Salary">
+                            <option value="Student">
+                            <option value="Senior Citizen">
+                        </datalist>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>Date of Birth:</td>
+                    <td>
+                        <input type="date" name="dob"
+                               max="2008-12-31"
+                               required>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>Monthly Income:</td>
+                    <td>
+                        <input type="number" name="income"
+                               min="0" step="5000"
+                               required>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>Upload ID Proof:</td>
+                    <td>
+                        <input type="file" name="idproof" required>
+                    </td>
+                </tr>
+
+            </table>
+
+        </fieldset>
+
+        <br>
+        <input type="submit" value="Open Account">
+
+    </form>
+
+</section>
+
+</main>
+</body>
+</html>

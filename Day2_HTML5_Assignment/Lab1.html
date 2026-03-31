@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lab1</title>
+</head>
+<body align="center">
+    <audio autoplay loop>
+    <source src="ring1.mp3">
+    Your browser does not support background audio.
+</audio>
+
+
+<header>
+    <div><img src="logo.png" alt="CodeWave Technologies Logo" width="150"></div>
+    <h1>CodeWave Technologies</h1>
+    <br>
+    <nav>
+        
+            <a href="#About">About</a> |
+            <a href="#services">Services</a> |
+            <a href="#testimonials">Testimonials</a> |
+            <a href="#newsletter">Newsletter</a> |
+            <a href="#contact">Contact</a>
+       
+    </nav>
+</header>
+
+<main>
+
+    <section id="about">
+        <h2>About CodeWave Technologies</h2>
+        <p>
+            CodeWave Technologies is a startup focused on delivering innovative and scalable
+            software solutions that empower businesses in the digital era.
+        </p>
+    </section>
+
+    <section id="services">
+        <h2>Our Services</h2>
+        <article>
+            <h3>Web Development</h3>
+            <p>Web development is the work involved in developing a website for the Internet (World Wide Web) or an intranet (a private network).[1] Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services. A more comprehensive list of tasks to which Web development commonly refers, may include Web engineering, Web design, Web content development, client liaison, client-side/server-side scripting, Web server and network security configuration, and e-commerce development.</p>
+        </article>
+        <article>
+            <h3>Cloud Solutions</h3>
+            <p>Cloud solutions encompass a range of services and resources users access online. Traditionally, software applications and computing resources existed locally on individual computers or on-premises servers where they became installed and maintained. On the other hand, cloud solutions enable users to access these resources remotely through the internet, eliminating the need to always be near the physical infrastructure and reducing the complexities associated with hardware management. As data stores grow exponentially, it’s become more difficult for organizations to store and maintain their data locally. Cloud platforms offer a solution to this problem, providing organizations with a way to access and secure large volumes of information.</p>
+        </article>
+        <article>
+            <h3>AI & Automation</h3>
+            <p>AI automation uses AI-driven technology to automate complex tasks that usually need human intelligence. Unlike Robotic Process Automation (RPA), which handles basic, rule-based tasks, AI automation can manage advanced tasks like understanding language, making decisions, and even learning from experience.
+               AI automation is widely used to streamline processes, improve accuracy, and support better decision-making. With AI, businesses can go beyond simple task automation, allowing machines to think, analyze, and adapt, freeing employees to focus on strategic work.</p>
+        </article>
+    </section>
+
+   
+    <section>
+        <h2>Company Introduction</h2>
+        <video controls poster="logo.png" width="500">
+            <source src="v1.MP4">
+            Your browser does not support the video tag.
+        </video>
+    </section>
+
+    <section id="testimonials">
+        <h2>What Our Clients Say</h2>
+        
+        <figure>
+            <img src="userf.png" alt="Artificial Intelligence Technology" width="200px" height="200px">
+            <figcaption>
+                “I’m really happy with the service provided. The team understood my requirements clearly and delivered exactly what I needed. Great support and smooth communication throughout.”
+            </figcaption>
+        </figure>
+        <figure>
+            <img src="userm.png" alt="Artificial Intelligence Technology" width="200px" height="200px">
+            <figcaption>
+               “This company consistently delivers excellent results. Their expertise, commitment, and attention to detail make them a valuable partner for any business.”
+            </figcaption>
+        </figure>
+    </section>
+
+    <section id="newsletter">
+        <h2>Subscribe to Our Newsletter</h2>
+
+        <form >
+           <label>Name</label><br>
+                <input type="text" id="txtname" required pattern="[A-Z]{2,}"
+                    title="Name should be in Upper case"><br><br>
+            
+            <label>Contact</label><br>
+            <input type="text" id="txtmobile" pattern="[5,9]{1}[0-9]{9}"
+                    title="VALID MOBILE NUMBER" required><br><br>
+                    
+            <label>Email Address:</label><br>
+            <input type="email" name="email" required placeholder="example@domain.com"><br><br>
+
+
+            <label>Preferred Contact Time:</label><br>
+            <input type="time" name="contact_time" required><br><br>
+
+
+            <label>Interested Service:</label><br>
+            <input list="services-list" name="service" required>
+            <datalist id="services-list">
+                <option value="Web Development">
+                <option value="Cloud Solutions">
+                <option value="AI & Automation">
+                <option value="Mobile App Development">
+            </datalist><br><br>
+
+
+            <input type="submit" value="Subscribe">
+        </form>
+    </section>
+
+</main>
+
+
+<footer id="contact">
+    <h3>Contact Us</h3>
+    <address>
+        Email: contact@codewave.com<br>
+        Phone: +91 98765 43210<br>
+        Location: Bengaluru, India
+    </address>
+    <p>&copy; 2026 CodeWave Technologies. All rights reserved.</p>
+</footer>
+</body>
+</html>
